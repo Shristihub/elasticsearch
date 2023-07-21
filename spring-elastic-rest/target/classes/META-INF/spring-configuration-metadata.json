@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "es",
+      "type": "com.blogapp.config.BlogConfig",
+      "sourceType": "com.blogapp.config.BlogConfig"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

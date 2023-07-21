@@ -1,0 +1,6 @@
+#elastic:
+# index: blogs
+es:  host-name: localhost
+  port: 9200
+  username: shristi
+  password: shristi123
